@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <!-- Player Colors -->
+    <string name="PlayerColorSpiderman">Spiderman</string>
+    <string name="PlayerColorSunburn">Sunburn</string>
+    <!-- Cause of Deaths -->
+	<string name="DiedToBodySwapperEaten">Caught by a decoy</string>
+	
+	<!-- Body Swapper - Impostor Killing -->
+	<string name="TownOfUsMira.Role.BodySwapper">Body Swapper</string>
+	<string name="TownOfUsMira.Role.BodySwapper.IntroBlurb">Plant a fake corpse that traps whoever tries to report it.</string>
+	<string name="TownOfUsMira.Role.BodySwapper.TabDescription">Place a decoy with another player's appearance. Reporting it springs a deadly trap.</string>
+	<!-- Body Swapper Wiki -->
+	<string name="TownOfUsMira.Role.BodySwapper.WikiDescription">Choose a player and place a fake body at your position. A non-Impostor who tries to report it triggers a kill. Decoys disappear after a time or when a meeting starts.</string>
+	<string name="TownOfUsMira.Role.BodySwapperDecoy">Decoy</string>
+	<string name="TownOfUsMira.Role.BodySwapperDecoy.WikiDescription">Place a fake corpse with a chosen player's appearance.</string>
+	<!-- Body Swapper Options -->
+	<string name="TouReEditedOptionBodySwapperDecoyCooldown">Decoy Cooldown</string>
+	<string name="TouReEditedOptionBodySwapperInitialUses">Initial Decoys</string>
+	<string name="TouReEditedOptionBodySwapperMaxPerRound">Decoys Per Round</string>
+	<string name="TouReEditedOptionBodySwapperKillsForUse">Kills For Another Decoy</string>
+	<string name="TouReEditedOptionBodySwapperCanVent">Body Swapper Can Vent</string>
+	<string name="TouReEditedOptionBodySwapperFirstRound">Decoy Can Be Placed In First Round</string>
+	<string name="TouReEditedOptionBodySwapperSyncKill">Sync Decoy And Kill Cooldown</string>
+	<string name="TouReEditedOptionBodySwapperDuration">Decoy Duration</string>
+	<string name="TouReEditedOptionBodySwapperPierceShield">Trap Pierces Shields</string>
+	<!-- Silencer - Impostor Power -->
+	<string name="TownOfUsMira.Role.Silencer">Silencer</string>
+	<string name="TownOfUsMira.Role.Silencer.IntroBlurb">Each kill shortens the next voting period.</string>
+	<string name="TownOfUsMira.Role.Silencer.TabDescription">Your kills shorten voting time at the next meeting.</string>
+	<!-- Silencer Wiki -->
+	<string name="TownOfUsMira.Role.Silencer.WikiDescription">Each kill reduces voting time at future meetings, down to the configured minimum. If enabled, voting time returns to normal after you die.</string>
+	<!-- Silencer Options -->
+	<string name="TouOptionSilencerSecondsPerKill">Voting Time Cut Per Kill</string>
+	<string name="TouOptionSilencerMinimumVotingTime">Minimum Voting Time</string>
+	<string name="TouOptionSilencerNormalVotingTimeWhenDead">Normal Voting Time When Dead</string>
+
+</resources>
